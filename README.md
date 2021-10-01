@@ -2,12 +2,15 @@
 This is simple text to speech convertor created using Google Text-to-Speech Lib.
 
 
-## Libraries
-1.	**Google Text-to-Speech** `pip install gtts`
+## Libraries Used
+*	**Google Text-to-Speech** `pip install gtts`
 
 
-## Python
+## Dependencies 
+**Python** 
+
 **Version** : 3.9.6 
+
 **Download/Update** : https://www.python.org/ftp/python/3.9.6/python-3.9.6-amd64.exe
 
 ## Screenshots
