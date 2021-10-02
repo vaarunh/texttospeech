@@ -22,6 +22,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "motasimmakki",
+      "name": "Motasim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44056349?v=4",
+      "profile": "https://www.linkedin.com/in/motasim-010b0a135/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
