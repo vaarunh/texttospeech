@@ -1,6 +1,6 @@
 # Text-to-Speech Converter
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 This is simple text to speech convertor created using Google Text-to-Speech Lib.
 
@@ -35,6 +35,7 @@ This is simple text to speech convertor created using Google Text-to-Speech Lib.
   <tr>
     <td align="center"><a href="https://github.com/Tushar1337"><img src="https://avatars.githubusercontent.com/u/53913018?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tushar Raina</b></sub></a><br /><a href="https://github.com/varunherlekar/texttospeech/commits?author=Tushar1337" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/pavanjoshi914"><img src="https://avatars.githubusercontent.com/u/55848322?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pavan Joshi</b></sub></a><br /><a href="https://github.com/varunherlekar/texttospeech/commits?author=pavanjoshi914" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/motasim-010b0a135/"><img src="https://avatars.githubusercontent.com/u/44056349?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Motasim</b></sub></a><br /><a href="https://github.com/varunherlekar/texttospeech/commits?author=motasimmakki" title="Code">💻</a></td>
   </tr>
 </table>
 
