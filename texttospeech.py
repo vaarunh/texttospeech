@@ -6,7 +6,7 @@ file = open(Script)
 text = file.read()
 a= ''
 language = 'en'
-b= int(input("which accent do you want? \n 1) Australian \n 2) American \n 3) British \n 4)Indian \n 5) Canadian \n 6) Irish \n 7) South African \n 8) Spanish\n\n(Select the number corresponding): "))
+b= int(input("which accent do you want? \n 1) Australian \n 2) American \n 3) British \n 4)Indian \n 5) Canadian \n 6) Irish \n 7) South African \n 8) Spanish \n 9) French \n\n(Select the number corresponding): "))
 
 if b == 1:
     a = 'com.au'
@@ -24,6 +24,8 @@ elif b == 7:
     a = 'co.za'
 elif b == 8:
     a = 'es'
+elif b ==9:
+    a = 'fr'
 
 obj= gTTS(text=text, lang=language, slow=False, tld= a )
 Filename= input("Enter Audio Filename to Save (With Extension): ")
