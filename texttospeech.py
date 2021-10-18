@@ -24,8 +24,7 @@ elif b == 7:
     a = 'co.za'
 elif b == 8:
     a = 'es'
-elif b ==9:
-    a = 'fr'
+    
 
 obj= gTTS(text=text, lang=language, slow=False, tld= a )
 Filename= input("Enter Audio Filename to Save (With Extension): ")
