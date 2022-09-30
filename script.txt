@@ -1,5 +1,3 @@
 Hello Everyone! Welcome to my project.
-Hoe you are doing fine
-This is simple text to speech convertor created using Google Text-to-Speech Lib.
-Thanks for testing.
-Have a nice day.
+Hope you are doing fine. This is simple text to speech convertor created using Google Text-to-Speech Lib.
+Thanks for testing. Have a nice day. This is a project I have written for practice. 
